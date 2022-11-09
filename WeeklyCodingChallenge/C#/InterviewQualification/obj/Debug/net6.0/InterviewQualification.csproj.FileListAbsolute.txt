@@ -1,0 +1,15 @@
+C:\Users\ianta\Desktop\Onboarding\Onboarding\WeeklyCodingChallenge\C#\InterviewQualification\bin\Debug\net6.0\InterviewQualification.exe
+C:\Users\ianta\Desktop\Onboarding\Onboarding\WeeklyCodingChallenge\C#\InterviewQualification\bin\Debug\net6.0\InterviewQualification.deps.json
+C:\Users\ianta\Desktop\Onboarding\Onboarding\WeeklyCodingChallenge\C#\InterviewQualification\bin\Debug\net6.0\InterviewQualification.runtimeconfig.json
+C:\Users\ianta\Desktop\Onboarding\Onboarding\WeeklyCodingChallenge\C#\InterviewQualification\bin\Debug\net6.0\InterviewQualification.dll
+C:\Users\ianta\Desktop\Onboarding\Onboarding\WeeklyCodingChallenge\C#\InterviewQualification\bin\Debug\net6.0\InterviewQualification.pdb
+C:\Users\ianta\Desktop\Onboarding\Onboarding\WeeklyCodingChallenge\C#\InterviewQualification\obj\Debug\net6.0\InterviewQualification.csproj.AssemblyReference.cache
+C:\Users\ianta\Desktop\Onboarding\Onboarding\WeeklyCodingChallenge\C#\InterviewQualification\obj\Debug\net6.0\InterviewQualification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianta\Desktop\Onboarding\Onboarding\WeeklyCodingChallenge\C#\InterviewQualification\obj\Debug\net6.0\InterviewQualification.AssemblyInfoInputs.cache
+C:\Users\ianta\Desktop\Onboarding\Onboarding\WeeklyCodingChallenge\C#\InterviewQualification\obj\Debug\net6.0\InterviewQualification.AssemblyInfo.cs
+C:\Users\ianta\Desktop\Onboarding\Onboarding\WeeklyCodingChallenge\C#\InterviewQualification\obj\Debug\net6.0\InterviewQualification.csproj.CoreCompileInputs.cache
+C:\Users\ianta\Desktop\Onboarding\Onboarding\WeeklyCodingChallenge\C#\InterviewQualification\obj\Debug\net6.0\InterviewQualification.dll
+C:\Users\ianta\Desktop\Onboarding\Onboarding\WeeklyCodingChallenge\C#\InterviewQualification\obj\Debug\net6.0\refint\InterviewQualification.dll
+C:\Users\ianta\Desktop\Onboarding\Onboarding\WeeklyCodingChallenge\C#\InterviewQualification\obj\Debug\net6.0\InterviewQualification.pdb
+C:\Users\ianta\Desktop\Onboarding\Onboarding\WeeklyCodingChallenge\C#\InterviewQualification\obj\Debug\net6.0\InterviewQualification.genruntimeconfig.cache
+C:\Users\ianta\Desktop\Onboarding\Onboarding\WeeklyCodingChallenge\C#\InterviewQualification\obj\Debug\net6.0\ref\InterviewQualification.dll
