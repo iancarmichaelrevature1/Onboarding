@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SMTraderBusinessLayer",
+    "\\SMTraderControllerLayer",
+    "\\SMTraderControllerLayer\\Controllers",
+    "\\SMTraderModels",
+    "\\SMTraderRepositoryLayer"
+  ],
+  "SelectedNode": "\\SMTraderControllerLayer\\Controllers\\SMTraderController.cs",
+  "PreviewInSolutionExplorer": false
+}
