@@ -1,10 +1,16 @@
 
-using BusinessLayer;
-using Models;
+using SMTraderBusinessLayer;
+using SMTraderModels;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace SMTraderControllerLayer.Controllers;
+
+// 11/18/2022
+// Slow, steady progress. 
+// I've followed my first route to the end of the line, and now I'm going to start working on the next route after I get back
+// from my I-9 certification appointment.
+// I'm hard coding some data for now until I set up a database (AZURE SQL is annoying to set up)
 
 // 11/17/2022
 // DISCLAIMER: This is part of the pre-planning / re-remembering phase. This is not a working example. It is a work in progress.
@@ -29,12 +35,12 @@ public class SMTraderController : ControllerBase
         this._businessLayer = new BizLayer();
     }
 
-    [HttpGet("RetrieveAllStocksAndDetails")]
-    public List<Stock> RetrieveAllStocksAndDetails(StocksDto stocks)
+    [HttpGet("all-stocks")]
+    public async List<Stock> RetrieveAllStocksAsync()
     {
-        return _businessLayer.RetrieveAllStocksAndDetails(stocks);
+        List<Stock?> allStocks = await this._businessLayer.RetrieveAllStocks();
+        return Ok(allStocks);
     }
-
 /*
 
 (10 points, SELECT SINGLE COMPANY)
