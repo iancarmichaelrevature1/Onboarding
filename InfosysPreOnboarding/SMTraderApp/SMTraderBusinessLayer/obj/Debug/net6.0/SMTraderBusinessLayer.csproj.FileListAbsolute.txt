@@ -1,0 +1,5 @@
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderBusinessLayer\obj\Debug\net6.0\SMTraderBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderBusinessLayer\obj\Debug\net6.0\SMTraderBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderBusinessLayer\obj\Debug\net6.0\SMTraderBusinessLayer.AssemblyInfoInputs.cache
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderBusinessLayer\obj\Debug\net6.0\SMTraderBusinessLayer.AssemblyInfo.cs
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderBusinessLayer\obj\Debug\net6.0\SMTraderBusinessLayer.csproj.CoreCompileInputs.cache

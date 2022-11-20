@@ -36,10 +36,10 @@ public class SMTraderController : ControllerBase
     }
 
     [HttpGet("all-stocks")]
-    public async List<Stock> RetrieveAllStocksAsync()
+    public async Task<List<Stock?>> RetrieveAllStocksAsync()
     {
-        List<Stock?> allStocks = await this._businessLayer.RetrieveAllStocks();
-        return Ok(allStocks);
+        List<Stock?> allStocks = await this._businessLayer.RetrieveAllStocksAsync();
+        return allStocks;
     }
 /*
 
@@ -50,9 +50,10 @@ As a user, I can select a SPECIFIC company **USING ITS STOCK TICKER SYMBOL** and
 */
 
     [HttpPost("RetrieveStockByTickerSymbol")]
-    public Stock RetrieveStockByTickerSymbol(StockDto stock)
+    public async Task<Buy?> RetrieveStockByTickerSymbolAsync(string tickerSymbol)
     {
-        return _businessLayer.RetrieveStockByTickerSymbol(stock);
+        Buy? stock = await this._businessLayer.RetrieveStockByTickerSymbolAsync(tickerSymbol);
+        return stock;
     }
 
 /*
