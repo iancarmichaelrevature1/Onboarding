@@ -1,0 +1,12 @@
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderModels\bin\Debug\net6.0\SMTraderModels.deps.json
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderModels\bin\Debug\net6.0\SMTraderModels.dll
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderModels\bin\Debug\net6.0\SMTraderModels.pdb
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderModels\obj\Debug\net6.0\SMTraderModels.csproj.AssemblyReference.cache
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderModels\obj\Debug\net6.0\SMTraderModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderModels\obj\Debug\net6.0\SMTraderModels.AssemblyInfoInputs.cache
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderModels\obj\Debug\net6.0\SMTraderModels.AssemblyInfo.cs
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderModels\obj\Debug\net6.0\SMTraderModels.csproj.CoreCompileInputs.cache
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderModels\obj\Debug\net6.0\SMTraderModels.dll
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderModels\obj\Debug\net6.0\refint\SMTraderModels.dll
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderModels\obj\Debug\net6.0\SMTraderModels.pdb
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderModels\obj\Debug\net6.0\ref\SMTraderModels.dll

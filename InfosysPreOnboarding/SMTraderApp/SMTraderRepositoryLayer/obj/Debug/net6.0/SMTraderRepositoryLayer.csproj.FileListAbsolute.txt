@@ -1,0 +1,15 @@
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderRepositoryLayer\bin\Debug\net6.0\SMTraderRepositoryLayer.deps.json
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderRepositoryLayer\bin\Debug\net6.0\SMTraderRepositoryLayer.dll
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderRepositoryLayer\bin\Debug\net6.0\SMTraderRepositoryLayer.pdb
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderRepositoryLayer\bin\Debug\net6.0\SMTraderModels.dll
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderRepositoryLayer\bin\Debug\net6.0\SMTraderModels.pdb
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderRepositoryLayer\obj\Debug\net6.0\SMTraderRepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderRepositoryLayer\obj\Debug\net6.0\SMTraderRepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderRepositoryLayer\obj\Debug\net6.0\SMTraderRepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderRepositoryLayer\obj\Debug\net6.0\SMTraderRepositoryLayer.AssemblyInfo.cs
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderRepositoryLayer\obj\Debug\net6.0\SMTraderRepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderRepositoryLayer\obj\Debug\net6.0\SMTraderRepositoryLayer.csproj.CopyComplete
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderRepositoryLayer\obj\Debug\net6.0\SMTraderRepositoryLayer.dll
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderRepositoryLayer\obj\Debug\net6.0\refint\SMTraderRepositoryLayer.dll
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderRepositoryLayer\obj\Debug\net6.0\SMTraderRepositoryLayer.pdb
+C:\Users\ianta\Desktop\Onboarding\Onboarding\InfosysPreOnboarding\SMTraderApp\SMTraderRepositoryLayer\obj\Debug\net6.0\ref\SMTraderRepositoryLayer.dll

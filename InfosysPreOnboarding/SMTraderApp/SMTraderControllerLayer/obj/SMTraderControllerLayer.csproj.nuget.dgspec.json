@@ -4,6 +4,67 @@
     "C:\\Users\\ianta\\Desktop\\Onboarding\\Onboarding\\InfosysPreOnboarding\\SMTraderApp\\SMTraderControllerLayer\\SMTraderControllerLayer.csproj": {}
   },
   "projects": {
+    "C:\\Users\\ianta\\Desktop\\Onboarding\\Onboarding\\InfosysPreOnboarding\\SMTraderApp\\SMTraderBusinessLayer\\SMTraderBusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ianta\\Desktop\\Onboarding\\Onboarding\\InfosysPreOnboarding\\SMTraderApp\\SMTraderBusinessLayer\\SMTraderBusinessLayer.csproj",
+        "projectName": "SMTraderBusinessLayer",
+        "projectPath": "C:\\Users\\ianta\\Desktop\\Onboarding\\Onboarding\\InfosysPreOnboarding\\SMTraderApp\\SMTraderBusinessLayer\\SMTraderBusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\ianta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ianta\\Desktop\\Onboarding\\Onboarding\\InfosysPreOnboarding\\SMTraderApp\\SMTraderBusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ianta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ianta\\Desktop\\Onboarding\\Onboarding\\InfosysPreOnboarding\\SMTraderApp\\SMTraderModels\\SMTraderModels.csproj": {
+                "projectPath": "C:\\Users\\ianta\\Desktop\\Onboarding\\Onboarding\\InfosysPreOnboarding\\SMTraderApp\\SMTraderModels\\SMTraderModels.csproj"
+              },
+              "C:\\Users\\ianta\\Desktop\\Onboarding\\Onboarding\\InfosysPreOnboarding\\SMTraderApp\\SMTraderRepositoryLayer\\SMTraderRepositoryLayer.csproj": {
+                "projectPath": "C:\\Users\\ianta\\Desktop\\Onboarding\\Onboarding\\InfosysPreOnboarding\\SMTraderApp\\SMTraderRepositoryLayer\\SMTraderRepositoryLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\ianta\\Desktop\\Onboarding\\Onboarding\\InfosysPreOnboarding\\SMTraderApp\\SMTraderControllerLayer\\SMTraderControllerLayer.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +88,14 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\ianta\\Desktop\\Onboarding\\Onboarding\\InfosysPreOnboarding\\SMTraderApp\\SMTraderBusinessLayer\\SMTraderBusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\ianta\\Desktop\\Onboarding\\Onboarding\\InfosysPreOnboarding\\SMTraderApp\\SMTraderBusinessLayer\\SMTraderBusinessLayer.csproj"
+              },
+              "C:\\Users\\ianta\\Desktop\\Onboarding\\Onboarding\\InfosysPreOnboarding\\SMTraderApp\\SMTraderModels\\SMTraderModels.csproj": {
+                "projectPath": "C:\\Users\\ianta\\Desktop\\Onboarding\\Onboarding\\InfosysPreOnboarding\\SMTraderApp\\SMTraderModels\\SMTraderModels.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -59,6 +127,124 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ianta\\Desktop\\Onboarding\\Onboarding\\InfosysPreOnboarding\\SMTraderApp\\SMTraderModels\\SMTraderModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ianta\\Desktop\\Onboarding\\Onboarding\\InfosysPreOnboarding\\SMTraderApp\\SMTraderModels\\SMTraderModels.csproj",
+        "projectName": "SMTraderModels",
+        "projectPath": "C:\\Users\\ianta\\Desktop\\Onboarding\\Onboarding\\InfosysPreOnboarding\\SMTraderApp\\SMTraderModels\\SMTraderModels.csproj",
+        "packagesPath": "C:\\Users\\ianta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ianta\\Desktop\\Onboarding\\Onboarding\\InfosysPreOnboarding\\SMTraderApp\\SMTraderModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ianta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ianta\\Desktop\\Onboarding\\Onboarding\\InfosysPreOnboarding\\SMTraderApp\\SMTraderRepositoryLayer\\SMTraderRepositoryLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ianta\\Desktop\\Onboarding\\Onboarding\\InfosysPreOnboarding\\SMTraderApp\\SMTraderRepositoryLayer\\SMTraderRepositoryLayer.csproj",
+        "projectName": "SMTraderRepositoryLayer",
+        "projectPath": "C:\\Users\\ianta\\Desktop\\Onboarding\\Onboarding\\InfosysPreOnboarding\\SMTraderApp\\SMTraderRepositoryLayer\\SMTraderRepositoryLayer.csproj",
+        "packagesPath": "C:\\Users\\ianta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ianta\\Desktop\\Onboarding\\Onboarding\\InfosysPreOnboarding\\SMTraderApp\\SMTraderRepositoryLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ianta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ianta\\Desktop\\Onboarding\\Onboarding\\InfosysPreOnboarding\\SMTraderApp\\SMTraderModels\\SMTraderModels.csproj": {
+                "projectPath": "C:\\Users\\ianta\\Desktop\\Onboarding\\Onboarding\\InfosysPreOnboarding\\SMTraderApp\\SMTraderModels\\SMTraderModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
