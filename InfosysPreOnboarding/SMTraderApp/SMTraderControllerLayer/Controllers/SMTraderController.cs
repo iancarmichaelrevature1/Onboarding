@@ -6,6 +6,20 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace SMTraderControllerLayer.Controllers;
 
+// 11/20/2020
+// Trevin was SO right. PASSION projects are the best way to learn.
+// It is hard to work on a project (like this one,) when it's a project you don't care about.
+// Looking back at it, I had to muster up the energy to do this project, and I'm not sure why.
+// I think it was a mix of things: 
+// 1. Trevin didn't say it was mandatory, but he did say it was a good idea to 'CYA' and do it.
+// 2. I was definitely not in the right headspace to be blind-sided by another revature training project.
+// 3. Azure SQL requires a subscription, and I don't have one. I was trained to use Azure SQL, 
+//    but Revature was paying for the subscription then, and isn't any longer... Frustrating.
+// 4. For the first time in my life, I had to hardcode data into my project. I don't like doing that. But it was 
+//    the only way I could get the project to work. And it still doesn't work. Because I only know the right way to do things.
+// I know I could complete this project with an extension, but my batchmate told us on 11/19, he was charged more than $300
+// for the Azure SQL subscription. Despite not using it! I'm about to move. I can't afford to forget and pay that kinda money.
+
 // 11/18/2022
 // Slow, steady progress. 
 // I've followed my first route to the end of the line, and now I'm going to start working on the next route after I get back
@@ -64,9 +78,10 @@ As a user, I can see a list of all companies whose stock market cap is above/bel
 */
 
     [HttpPost("RetrieveStocksByMarketCap")]
-    public List<Stock> RetrieveStocksByMarketCap (MarCapDto marCap)
+    public List<Stock?> RetrieveStocksByMarketCapAsync (MarCapDto marCap)
     {
-        return _businessLayer.RetrieveStocksByMarketCap(marCap);
+        List<Stock?> stocks = this._businessLayer.RetrieveStocksByMarketCapAsync(marCap);
+        return stocks;
     }
 
 /*
