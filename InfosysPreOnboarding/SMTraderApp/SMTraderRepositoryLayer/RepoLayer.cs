@@ -24,7 +24,7 @@ public class RepoLayer
 
     public async Task<Buy?> RetrieveStockByTickerSymbolAsync(string tickerSymbol)
     {
-        SqlConnection connection = new SqlConnection("Server=tcp:smtrader.database.windows.net,1433;Initial Catalog=SMTrader;Persist Security Info=False;User ID=smtrader;Password=Password123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
+        SqlConnection connection = new SqlConnection("Server=tcp:smtrader.not.a.real.database.windows.net,1433;Initial Catalog=SMTrader;Persist Security Info=False;User ID=smtrader;Password=Password123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
         using (SqlCommand cmd = new SqlCommand("SELECT * FROM dbo.Stocks WHERE TickerSymbol = @TickerSymbol", connection))
         {
             cmd.Parameters.AddWithValue("@TickerSymbol", tickerSymbol);
@@ -35,6 +35,20 @@ public class RepoLayer
             {
                 return buy;
             }
+        }
+        return null;
+    }
+
+    public async List<Stock?> RetrieveStocksByMarketCapAsync(MarCapDto marCap)
+    {
+        SqlConnection connection = new SqlConnection("Server=tcp:smtrader.not.a.real.database.windows.net,1433;Initial Catalog=SMTrader;Persist Security Info=False;User ID=smtrader;Password=Password123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
+        connection.Open();
+        SqlDataReader? ret = await cmd.ExecuteReaderAsync();
+        List<Stock?> stocksByMarketCap = new List<Stock?>();
+
+        while (ret.Read())
+        {
+            return stocksByMarketCap;
         }
         return null;
     }
