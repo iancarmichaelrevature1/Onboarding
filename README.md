@@ -1,6 +1,7 @@
 # Onboarding Project 1 Devlog
 
 11/22/2022
+
 Made my SQLite database. I'm going to use it to store the data for the Stocks. 
 As per the assignment's suggestion, I am considering just having a *single* Stocks table with the following columns:
 1. Stock Id (Primary Key) (INTEGER)
@@ -10,11 +11,13 @@ As per the assignment's suggestion, I am considering just having a *single* Stoc
 5. Market Cap (REAL)
 
 11/21/2022
+
 I spent time shopping around for local DB options and settled on SQLite.
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/working-with-sql?view=aspnetcore-5.0&tabs=visual-studio-code
 Resolved to install and learn to use SQLite in lieu of Azure SQL Server.
 
 11/20/2022
+
 Trevin was SO right. PASSION is important. Boring projects are not the best way to learn and stay busy.
 In the thick of it now, I'm struggling to muster up the energy to do this project, and I'm not sure why.
 I think it's a mix of things: 
@@ -32,12 +35,14 @@ for the Azure SQL subscription. Despite not using it! I'm about to move. I can't
 Going to look into other options.
 
 11/18/2022
+
 Slow, steady progress. 
 I've followed my first route to the end of the line, and now I'm going to start working on the next route after I get back
 from my I-9 certification appointment.
 I'm hard coding some data for now until I set up a database (AZURE SQL is annoying to set up)
 
 11/17/2022
+
 DISCLAIMER: This is part of the pre-planning / re-remembering phase. This is not a working example. It is a work in progress.
 I always start with the controller layer, because it is the most visible layer. It is the layer that is most likely to change.
 I havent even started Models yet. I will get to that next! (Most would argue an even better place to start off!)
