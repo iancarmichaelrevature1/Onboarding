@@ -1,0 +1,15 @@
+DROP TABLE Stocks;
+
+CREATE TABLE IF NOT EXISTS Stocks (
+StockID INTEGER PRIMARY KEY AUTOINCREMENT,
+TickerSymbol TEXT NOT NULL,
+PricePerShare REAL NOT NULL,
+QuantityOfShares INTEGER NOT NULL,
+MarketCap REAL NOT NULL,
+);
+
+INSERT INTO Stocks (TickerSymbol, PricePerShare, QuantityOfShares, MarketCap) VALUES ('AMZN', 100, 1000000, 1000000000);
+INSERT INTO Stocks (TickerSymbol, PricePerShare, QuantityOfShares, MarketCap) VALUES ('TSLA', 200, 500000, 100000000);
+INSERT INTO Stocks (TickerSymbol, PricePerShare, QuantityOfShares, MarketCap) VALUES ('AAPL', 300, 400000, 12000000);
+INSERT INTO Stocks (TickerSymbol, PricePerShare, QuantityOfShares, MarketCap) VALUES ('GOOG', 75, 50000000, 3750000000);
+INSERT INTO Stocks (TickerSymbol, PricePerShare, QuantityOfShares, MarketCap) VALUES ('MSFT', 50, 2000000, 1000000000);
