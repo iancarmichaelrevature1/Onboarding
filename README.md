@@ -12,9 +12,11 @@ As per the assignment's suggestion, I am considering just having a *single* Stoc
 
 11/21/2022
 
-I spent time shopping around for local DB options and settled on SQLite.
+I somewhat tragically mistook this day to be the 'end' of the assignment, and therefore I spent most of the day doing
+assignments on the Project Onboarding event Calendar.
 
-Resolved to install and learn to use SQLite in lieu of Azure SQL Server.
+Later on, after realizing I am to continue my struggles, I spent time shopping around for local DB options and settled on SQLite.
+Resolved to get SOMETHING up and running, I installed and began to learn to use SQLite in lieu of Azure SQL Server.
 
 11/20/2022
 
