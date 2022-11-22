@@ -1,4 +1,4 @@
-# Onboarding Devlog
+# Onboarding Project 1 Devlog
 
 11/22/2022
 Made my SQLite database. I'm going to use it to store the data for the Stocks. 
