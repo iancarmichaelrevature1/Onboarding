@@ -4,7 +4,7 @@
 
 Started updating connection strings to match SQLite's requirments.
 Still having a lot of technical issues troubleshooting this extracurricular SQL solution.
-My last day with Revature's the 30th. Maybe I can sort this all out by then?
+My last day with Revature's the 30th. Maybe I can sort this all out by then? Like, I want to work on my front end, but without a working backend, what's the point?
 
 
 11/22/2022
