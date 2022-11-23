@@ -17,10 +17,10 @@ public class BizLayer
     } // Blocker: I don't want to be charged for azure sql, but i need a database to store the data in.
     // I was trained to use Azure SQL but Revature was paying for the subscription, and isn't any longer...
 
-    public async Task<Buy?> RetrieveStockByTickerSymbolAsync(string tickerSymbol)
+    public async Task<Buy?> RetrieveStockByTickerSymbolAsync(SymbolDto symbolDto)
     {
-        Buy? buy = await this._repositoryLayer.RetrieveStockByTickerSymbolAsync(tickerSymbol);
-        return buy;
+        Buy? stock = await this._repositoryLayer.RetrieveStockByTickerSymbolAsync(symbolDto);
+        return stock;
     }
 
     public List<Stock?> RetrieveStocksByMarketCapAsync(MarCapDto marCap)
