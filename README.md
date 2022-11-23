@@ -1,8 +1,8 @@
 # Onboarding Project 1 Devlog
 
-11/22/2022 (Evening) - 11/23/2022 (1:07AM)
+11/22/2022 (Evening) - 11/23/2022 (1:08AM)
 
-Started updating connection strings to match SQLite's requirments. I'm still having a lot of technical issues troubleshooting this extracurricular SQL solution.
+Started updating connection strings to match SQLite's requirements. I'm still having a lot of technical issues troubleshooting this extracurricular SQL solution.
 I want to work on my Angular front end, but without a working back end, what's the point? 
 
 My last day with Revature's the 30th. Maybe I can sort this all out by then?
