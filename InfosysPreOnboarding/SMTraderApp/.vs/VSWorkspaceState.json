@@ -7,6 +7,6 @@
     "\\SMTraderModels",
     "\\SMTraderRepositoryLayer"
   ],
-  "SelectedNode": "\\SMTraderControllerLayer\\Controllers\\SMTraderController.cs",
+  "SelectedNode": "\\SMTraderRepositoryLayer\\RepoLayer.cs",
   "PreviewInSolutionExplorer": false
 }
