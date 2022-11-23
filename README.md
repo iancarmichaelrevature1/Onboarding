@@ -1,5 +1,12 @@
 # Onboarding Project 1 Devlog
 
+11/22/2022 (Evening - Midnight)
+
+Started updating connection strings to match SQLite's requirments.
+Still having a lot of technical issues troubleshooting this extracurricular SQL solution.
+My last day with Revature's the 30th. Maybe I can sort this all out by then?
+
+
 11/22/2022
 
 Made my SQLite database. I'm going to use it to store the data for the Stocks. 
