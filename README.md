@@ -2,9 +2,10 @@
 
 11/22/2022 (Evening - Midnight)
 
-Started updating connection strings to match SQLite's requirments.
-Still having a lot of technical issues troubleshooting this extracurricular SQL solution.
-My last day with Revature's the 30th. Maybe I can sort this all out by then? Like, I want to work on my front end, but without a working backend, what's the point?
+Started updating connection strings to match SQLite's requirments. I'm still having a lot of technical issues troubleshooting this extracurricular SQL solution.
+I want to work on my Angular front end, but without a working back end, what's the point? 
+
+My last day with Revature's the 30th. Maybe I can sort this all out by then?
 
 
 11/22/2022
