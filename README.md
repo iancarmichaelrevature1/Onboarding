@@ -33,6 +33,7 @@ I think it's a mix of things:
 1. I was definitely not in the right headspace to be blind-sided by another revature training project.
    I realize the goal wasn't for us to get stressed out like it was training all over again, but it feels like a solo P3.
    I'm already stressed because I don't know where I'm going to LIVE in 2+ weeks, and because I'm not sure what I'm going to be doing once I get there!
+   And of course Thanksgiving stress!!! I'm in charge of cooking! YIKES!
 2. Trevin didn't say it was mandatory. I'm too easy on myself and I definitely work better with a serious deadline.
    While he did say it was a good idea to 'CYA' and do it, I still don't find that to be a good motivator. >>But that's on ME.<<
 3. Azure SQL requires a subscription, and I don't have one. I was trained to use Azure SQL, 
